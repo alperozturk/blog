@@ -68,15 +68,3 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
-
-collections:
-  redirects:
-    output: true
-    permalink: /:path/
-
-defaults:
-  -
-    scope:
-      type: redirects
-    values:
-      layout: redirect
