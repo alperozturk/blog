@@ -68,3 +68,7 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+---
+redirect: http://ideava.com
+---
