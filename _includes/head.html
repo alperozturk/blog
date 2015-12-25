@@ -11,7 +11,7 @@
 <!-- Hide from older browsers
 function setCookie(name, value, expire) {
 	strCookie = name + "=" + escape(value);
-	if (expire) strCookie += ";
+	if (expire) strCookie += "";
 	expires=" + expire.toGMTString();
 	document.cookie = strCookie;
 }
