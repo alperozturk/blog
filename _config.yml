@@ -70,5 +70,5 @@ markdown: kramdown
 permalink: pretty
 
 ---
-redirect: http://ideava.com
+redirect: https://ideava.com
 ---
