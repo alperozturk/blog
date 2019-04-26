@@ -6,7 +6,7 @@
 
 body {
     overflow-x: hidden;
-    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "AvenirNext-Bold";
     color: #{{ site.color.secondary-dark }};
 }
 
@@ -53,7 +53,7 @@ h4,
 h5,
 h6 {
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "AvenirNext-Bold";
     font-weight: 700;
 }
 
@@ -72,7 +72,7 @@ h6 {
 .btn-primary {
     border-color: #{{ site.color.primary }};
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "AvenirNext-Bold";
     font-weight: 700;
     color: #fff;
     background-color: #{{ site.color.primary }};
@@ -123,7 +123,7 @@ fieldset[disabled] .btn-primary.active {
     border-color: #{{ site.color.primary }};
     border-radius: 3px;
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "AvenirNext-Bold";
     font-size: 18px;
     font-weight: 700;
     color: #fff;
